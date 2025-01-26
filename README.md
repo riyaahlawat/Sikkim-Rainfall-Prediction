@@ -1,9 +1,9 @@
 # Sikkim-Rainfall-Prediction
 
-# Classes
-## Logistic Regression
-## SVM
-## Random Forest
+## Classes
+- Logistic Regression
+- SVM
+- Random Forest
 
-# Weather Forecasting
-## SARIMAX
+## Weather Forecasting
+- SARIMAX
