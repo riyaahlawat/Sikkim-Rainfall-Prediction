@@ -6,4 +6,7 @@
 - Random Forest
 
 ## Weather Forecasting
+- ARIMA
+- ARIMA with fourier
 - SARIMAX
+- TBATS
