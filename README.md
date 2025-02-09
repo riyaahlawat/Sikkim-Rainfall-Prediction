@@ -1,19 +1,17 @@
 # Sikkim-Rainfall-Prediction
 
-## Classes
+## Classes (Without modifying dataset)
 - Logistic Regression
 - SVM
 - Random Forest
 
-## Regressor
-On modified dataset:
-
+## Regressor (On modified dataset)
 - Random Forest Regressor
 - Gradient Boost Regressor
 - Support Vector Regressor
 - MLP Regressor
 
-## Weather Forecasting
+## Weather Forecasting (On Location 0)
 - ARIMA
 - ARIMA with fourier
 - SARIMAX
