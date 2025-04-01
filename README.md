@@ -1,6 +1,7 @@
 # Sikkim-Rainfall-Prediction (1901 - 2024)
+## 11 Locations
 
-## 1) Classes (yes/no) (Without modifying dataset - 1) all locations 2) location_0)
+## 1) Classes (yes/no) (Without modifying dataset - all locations and location_0)
 - Logistic Regression
 - SVM
 - Random Forest
