@@ -1,8 +1,0 @@
-The dataset provided contains rainfall data across multiple locations in Sikkim, with details on rainfall amounts, geographic coordinates, and timestamps. This data is essential for analyzing weather patterns, identifying rainfall trends, and determining regions prone to continuous rainfall.
-
-Key Columns in the Dataset
-Date – The recorded date of rainfall.
-Location – Name of the location where rainfall was recorded.
-Latitude & Longitude – Geographical coordinates of the location.
-Rainfall (in mm) – The amount of rainfall recorded.
-Season – The season corresponding to the recorded date.
