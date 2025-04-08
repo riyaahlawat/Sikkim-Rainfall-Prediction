@@ -20,3 +20,9 @@
 
 ## 4) Visualization
 Using Exploratory Data Analysis (EDA).
+The analysis leverages the following Python libraries: 
+- pandas: for data manipulation and exploration 
+- numpy: for numerical operations 
+- matplotlib: for static visualizations 
+- plotly: for interactive visualizations 
+- folium: for mapping and geospatial visualization
